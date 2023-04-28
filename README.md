@@ -25,7 +25,7 @@ Once the files are encrypted, the script generates 3 files at root.<br>
 They all are named by the timestamp.<br><br>
 For instance:<br>
 ```20230427-230944.txt --> the encrypted key```<br>
-```20230427-230944p.txt --> the path where the files have benn encrypted from ```<br>
+```20230427-230944p.txt --> the path where the files have been encrypted from ```<br>
 ```20230427-230944.mu --> the necessary secret key file to decrypt```<br><br>
 
 The necessary secret key to decrypt will be available in the first menu as soon as the files are encrypted.<br>
