@@ -35,7 +35,9 @@ https://user-images.githubusercontent.com/81557672/235116383-3d5cf8c3-49f8-4a8c-
 
 ### DECRYPT MOVED FILES
 
-If the encrypted files have been moved (not at the same location), click on "Select Another Location" field and select the new location before decrypting.
+If the encrypted files have been moved (not at the same location), click on "Select Another Location" field and select the new location before decrypting.<br>
+
+https://user-images.githubusercontent.com/81557672/235134708-32530975-3011-4187-8a27-366366c652d9.mp4
 
 ### SHORTCUTS
 
