@@ -10,7 +10,7 @@ _DMTU is a file encryption tool written in Python._
 
 ```
 ### SUMMARY
-DMTU Encrypt/Decrypt any files using the Fernet module.
+*_DMTU Encrypt/Decrypt any files using the Fernet module._*
 ### SCREENSHOTS
 
 ![Screenshot](https://github.com/gelndjj/DMTU/blob/main/screenshots/main_600x900.png)
@@ -18,7 +18,7 @@ DMTU Encrypt/Decrypt any files using the Fernet module.
 ### HOW IT WORKS - VIDEOS
 #####  ENCRYPT/DECRYPT
 
-######PENDING
+###### PENDING
 
 ### REQUIREMENTS INSTALLATION
 ```
