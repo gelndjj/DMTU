@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/81557672/235134708-32530975-3011-4187-
 
 ### REQUIREMENTS INSTALLATION
 ```
-pending...
+pip install -r requirements.txt
 ```
 ### CLONE REPO
 ```
