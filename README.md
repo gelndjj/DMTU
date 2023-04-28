@@ -17,7 +17,7 @@ _DMTU is a file encryption tool written in Python._
 
 ### HOW IT WORKS - VIDEOS
 ######  ENCRYPT/DECRYPT
-
+https://user-images.githubusercontent.com/81557672/235116383-3d5cf8c3-49f8-4a8c-bac1-3b297c51e976.mp4 
 
 ### REQUIREMENTS INSTALLATION
 ```
