@@ -1,14 +1,12 @@
 # DMTU - Don't  Mess This Up
 _DMTU is a file encryption tool written in Python._
 
-```
 	\|/          (__)    
 	     `\------(oo)
 	       ||    (__)
 	       ||w--||     \|/
 	   \|/
 
-```
 ### SUMMARY
 *_DMTU Encrypt/Decrypt any files using the Fernet module._*
 ### SCREENSHOTS
