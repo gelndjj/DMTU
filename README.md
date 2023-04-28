@@ -31,7 +31,7 @@ For instance:<br>
 The necessary secret key to decrypt will be available in the first menu as soon as the files are encrypted.<br>
 Watch the video below on how to encrypt and decrypt folder and its content.<br>
 
-https://user-images.githubusercontent.com/81557672/235116383-3d5cf8c3-49f8-4a8c-bac1-3b297c51e976.mp4 
+https://user-images.githubusercontent.com/81557672/235138937-05575021-a7e2-42b9-8f6e-499184e02ce0.mp4
 
 ### DECRYPT MOVED FILES
 
