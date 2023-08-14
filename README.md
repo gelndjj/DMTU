@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-<img src="https://github.com/gelndjj/DMTU/blob/main/resources/main_windows.png" alt="Logo" width="541" height="393">
+<img src="https://github.com/gelndjj/DMTU/blob/main/resources/main_windows.png" alt="Logo" width="394" height="626">
 </br>
 </br>
 I was tinkering with the Python encryption module, Fernet, when I decided to write a script that will be able to encrypt/decrypt any file.
