@@ -224,14 +224,14 @@ window.resizable(0, 0)
 
 frame = tk.Frame(window, width=480, height=800, borderwidth=0, highlightthickness=0)
 frame.pack()
-image = Image.open("img_soft/main.png")
+image = Image.open("resources/main.png")
 img = ImageTk.PhotoImage(image)
 
 canvas = tk.Canvas(frame, width=480, height=800, highlightthickness=0)
 canvas.pack()
 canvas.create_image(0, 0, anchor=tk.NW, image=img)
 
-image2 = Image.open("img_soft/ban.png")
+image2 = Image.open("resources/ban.png")
 img2 = ImageTk.PhotoImage(image2)
 
 banner = tk.Canvas(frame, width=480, height=100, highlightthickness=0)
@@ -254,11 +254,11 @@ menu2.place(x=260, y=150)
 
 menu2.create_text(70, 25, text="Free Files", fill="red")
 
-mush_up_img = ck.CTkImage(light_image=Image.open("img_soft/Mushroom1up.png"), size=(16, 16))
-mario_img = ck.CTkImage(light_image=Image.open("img_soft/Mario.png"), size=(16, 16))
-mush_img = ck.CTkImage(light_image=Image.open("img_soft/Mushroom.png"), size=(16, 16))
-coin_img = ck.CTkImage(light_image=Image.open("img_soft/Coin.PNG"), size=(16, 16))
-fire_img = ck.CTkImage(light_image=Image.open("img_soft/Fire.png"), size=(16, 16))
+mush_up_img = ck.CTkImage(light_image=Image.open("resources/Mushroom1up.png"), size=(16, 16))
+mario_img = ck.CTkImage(light_image=Image.open("resources/Mario.png"), size=(16, 16))
+mush_img = ck.CTkImage(light_image=Image.open("resources/Mushroom.png"), size=(16, 16))
+coin_img = ck.CTkImage(light_image=Image.open("resources/Coin.PNG"), size=(16, 16))
+fire_img = ck.CTkImage(light_image=Image.open("resources/Fire.png"), size=(16, 16))
 
 btn_mush1up = ck.CTkButton(canvas, text="", width=1, height=1, image=mush_up_img, fg_color="#191d12", hover_color="white", bg_color="#202717", border_width=1, border_color='#87b23f', command=decrypt_files)
 btn_mush1up.place(x=388, y=581)
@@ -282,11 +282,11 @@ btn_m_mush1up.place(x=10, y=10)
 btn_m_fire = ck.CTkButton(menu, text="", width=1, height=1,  image=fire_img, compound='left', fg_color="#191d12", hover_color="#191d12")
 btn_m_fire.place(x=10, y=176)
 
-images = ["img_soft/main.png",
-          "img_soft/main_night.png",
-          "img_soft/main_grey.png",
-          "img_soft/main_cosmic.png",
-          "img_soft/main_chroma.png"]
+images = ["resources/main.png",
+          "resources/main_night.png",
+          "resources/main_grey.png",
+          "resources/main_cosmic.png",
+          "resources/main_chroma.png"]
 current_image = 0
 
 style = ttk.Style()
