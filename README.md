@@ -57,8 +57,15 @@
 <img src="https://github.com/gelndjj/DMTU/blob/main/resources/main_windows.png" alt="Logo" width="394" height="626">
 </br>
 </br>
-I was tinkering with the Python encryption module, Fernet, when I decided to write a script that will be able to encrypt/decrypt any file.
-</br>
+DMTU is a versatile and user-friendly macOS application designed for dynamic media and text management. This utility stands out with its ability to encrypt files within a folder based on size thresholds, offering an additional layer of security for your digital media and documents. Developed using Python, it leverages the robustness of the cryptography library for encryption and features a custom tkinter GUI for an intuitive user experience.
+
+Key Features:
+
++ Selective File Encryption: Encrypt files in a selected folder, with options to choose files based on size thresholds (e.g., 10MB or 50MB).
++ Intuitive GUI: A custom graphical user interface makes it easy to navigate and perform tasks quickly.
++ Cross-Platform Compatibility: While designed for macOS, its Python-based architecture ensures compatibility with other operating systems.
++ Secure Encryption: Uses the Fernet module from the cryptography library for secure, reliable encryption of media and text files.
++ Ideal for users who handle sensitive media and text files, DMTU provides a simple yet powerful tool to enhance file security and organization.</br>
 </br>
 Encrypting files protects them from reading and scanning and might be a good way to keep secret the content.
 </br>
@@ -81,6 +88,17 @@ Encrypting files protects them from reading and scanning and might be a good way
 <!-- USAGE EXAMPLES -->
 ## Usage
 </br>
+
+1. Starting the Application: Run the dmtu_gui.py script in a Python environment with the required dependencies installed.
+2. Encrypting Files:
+Choose the folder containing the files you wish to encrypt.
+Select the file size threshold (e.g., 10MB, 50MB) for encryption.
+Click the corresponding button to encrypt files under the chosen size threshold. Encrypted files will be saved in the same directory.
+3. Interface Navigation:
+Navigate through the intuitive GUI to select folders, set preferences, and manage files.
+Use the provided combo boxes and entry fields to customize your file management and encryption settings.
+4. Additional Features:
+The application includes features for changing the GUI theme and other user-friendly functionalities.
 
 ######  ENCRYPT/DECRYPT
 
